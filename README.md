@@ -2,6 +2,8 @@
 
 This repository contains my **Netflix Data Analytics Project**, where I explored, analyzed, and visualized a dataset of Netflix movies and directors using **Power BI** and **Excel**. The project focuses on uncovering insights related to movie trends, directors, ratings, and global patterns over several centuries.  
 
+To access the PowerBI - https://app.powerbi.com/reportEmbed?reportId=53fb2459-d50a-4a3c-8c75-3e43e6c94ec0&autoAuth=true&ctid=34c6a16f-5c98-4f1c-9e10-5b1d293bf1d4
+
 ## 🚀 Project Highlights:  
 1. **Dataset Overview**:  
    - **Movies Analyzed**: 8809  
